@@ -1,0 +1,1 @@
+Remote exec provisioner to allow access to EC2 instance via SSH
